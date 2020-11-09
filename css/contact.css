@@ -80,13 +80,13 @@ body { background: #eeeeee; }
  }
 
 
-  a {
+ #main a {
    color: #3498db;
    position: relative;
    display: inline-block;
    transition: .3s;
  }
- a::after {
+ #main a::after {
    position: absolute;
    bottom: 0;
    left: 0;
