@@ -96,6 +96,6 @@ body { background: #eeeeee; }
    background-color: #2ecc71;
    transition: .3s;
  }
- a:hover::after {
+ #main a:hover::after {
    width: 100%;
  }
